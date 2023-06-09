@@ -1,0 +1,106 @@
+/* Write your CSS here */
+.productDetailsContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.failureContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.errorImage {
+  height: 300px;
+}
+.buttonError {
+  background-color: #3b82f6;
+  padding: 10px;
+  border-radius: 10px;
+  color: #ffffff;
+  margin-top: 20px;
+}
+
+.similarContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.heading3 {
+  color: #1e293b;
+  font-weight: bold;
+  font-family: roboto;
+}
+
+.productDetailsContainer {
+  display: flex;
+  flex-direction: row;
+  margin: 20px;
+}
+.image5 {
+  height: 500px;
+  border-radius: 10px;
+}
+.detailsContainer {
+  margin-left: 20px;
+}
+.title22 {
+  color: #616e7c;
+  font-weight: bold;
+}
+.ratingContainer {
+  background-color: #3b82f6;
+  display: flex;
+  align-items: center;
+  width: 50px;
+  justify-content: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+.rating66 {
+  color: #ffffff;
+  font-weight: bold;
+}
+.rating-Review {
+  display: flex;
+  align-items: center;
+}
+.reviews {
+  margin-left: 10px;
+}
+.description {
+  color: #475569;
+}
+.available2 {
+  color: #1e293b;
+  font-weight: bold;
+}
+.available {
+  color: #616e7c;
+}
+.brand1 {
+  color: #1e293b;
+  font-weight: bold;
+}
+.brand {
+  color: #475569;
+}
+.quantityContainer {
+  display: flex;
+}
+.quantity {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.button4 {
+  background-color: #3b82f6;
+  padding: 10px;
+  border-radius: 10px;
+  color: #ffffff;
+  margin-top: 10px;
+}

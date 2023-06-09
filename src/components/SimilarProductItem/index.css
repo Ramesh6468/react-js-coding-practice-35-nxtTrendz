@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.similarItem {
+  list-style-type: none;
+  margin-left: 30px;
+  margin-top: 100px;
+}
+.image10 {
+  height: 300px;
+  border-radius: 10px;
+}
+.titleS {
+  color: #1e293b;
+  font-weight: bold;
+  font-size: 20px;
+}
+.brandS {
+  color: #616e7c;
+}
+.price-rating {
+  display: flex;
+}
+.ratingC {
+  margin-left: 30px;
+  background-color: #3b82f6;
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+}
+.star2 {
+  height: 20px;
+}
+.rating2 {
+  color: #ffffff;
+}
+.price2 {
+  font-weight: bold;
+  color: #1e293b;
+}
